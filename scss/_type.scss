@@ -1,0 +1,16 @@
+/**
+ * Not sure what I'm suppose to put in as content for the partials. Why not just make changes in the styles.scss?
+ */
+ 
+ /**
+ * And I don't see the changes reflected in the scss file? Terminal should be watching these files too with the command --watch scss.css, righ?
+ */
+
+
+
+header {
+	h2 {color:$white; 
+	font-size: 1em; 
+	font-family:$bodyfont; 
+	padding: 10px 0px 0px 0px;}
+}
