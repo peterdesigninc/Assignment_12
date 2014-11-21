@@ -1,22 +1,7 @@
 Assignment 12
 =============================
 
-SASS Homwork Files for Fall 2014
 
-## HINTS!  
+Assignment 12. This reference also serves as the exercise files for my course, so you can download the exercise files from this repo as well.
 
-### Width  
-body {width: 640px;}  
-
-### Colors  
-$dark: #2C3E50;  
-$red: #E74C3C;  
-$white: #ECF0F1;  
-$mid: #3498DB;  
-$light: #2980B9;
-
-### NEW CSS RULE?  
--webkit-border-radius: $radius;  
--moz-border-radius: $radius;  
--ms-border-radius: $radius;  
-border-radius: $radius;  
+##[View the companion reference site](http://pdesibour.studio.mcad.edu/Assignment_12/)
